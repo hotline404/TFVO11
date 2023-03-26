@@ -7,8 +7,9 @@
 
 - 🌱 요즘 공부 : 
     react을 활용한 FE
-    python을 활용한 machine learning 
-  
+    <br/>
+    python을 활용한 machine learning,
+<br/>
   
 - 👯 코딩 강의 한편 뚝딱 :
     [Maximilian react complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
