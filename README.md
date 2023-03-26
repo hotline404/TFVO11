@@ -5,12 +5,12 @@
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=React&logoColor=white"/>
 
 
-- 🌱 요즘 공부 : 
+- 🌱 요즘 공부 : <br/>
     react을 활용한 FE
     <br/>
     python을 활용한 machine learning,
 <br/>
-  
-- 👯 코딩 강의 한편 뚝딱 :
+
+- 👯 코딩 강의 한편 뚝딱 :<br/>
     [Maximilian react complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
     
