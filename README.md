@@ -4,7 +4,7 @@
 
 #### React를 주로 공부하고 가끔은 python으로 장난을 치기를 좋아합니다.:trollface:
 
-#### :fire:My skill
+#### :fire:My skill:fire:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=React&logoColor=white"/>
 
 
