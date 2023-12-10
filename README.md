@@ -3,9 +3,7 @@
 #### React를 주로 개발하고 javascript, html, css를 다룹니다. python도 가끔 가지고 놀고 있습니다!!!
 
 #### 🔥My skill🔥
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/javaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/javaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 
 - 🌱 요즘 공부 : <br/>
