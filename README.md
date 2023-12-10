@@ -4,7 +4,7 @@
 
 #### 🔥My skill🔥
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=javascript&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/javaScript-61DAFB?style=flat-square&logo=javascript&logoColor=yellow"/><br/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
 
