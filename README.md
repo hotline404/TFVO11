@@ -18,7 +18,7 @@
     <br/>
 
 - 😈 개인 프로젝트입니다!!! :<br/>
-    🌼
+    🌼https://github.com/TFVO11/redux-react-todolist-app
     <br/>
     <br/>
 - 😈 국가 지원 앨리스 코드에서 부트 캠프를 진행했습니다! 아래는 부트 캠프를 하며 진행한 두번의 팀 프로젝트입니다!!! :<br/>
