@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/javaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/html-purple?style=flat-square&logo=HTML&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/html-purple?style=flat-square&logo=CSS&logoColor=white"/><br/>
 
 
 - 🌱 요즘 공부 : <br/>
