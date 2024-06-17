@@ -1,4 +1,4 @@
-### 👋반갑습니다. TFVO11의 GITHUB입니다!👋
+### 👋반갑습니다. 김영준의 GITHUB입니다!👋
 
 #### React를 주로 개발하고 javascript, html, css를 다룹니다. python도 가끔 가지고 놀고 있습니다!!!
 
